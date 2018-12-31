@@ -1,0 +1,5 @@
+D:\Dropbox\Dropbox\UnitTestDemo\XUnitDemo\bin\Debug\netcoreapp2.1\UnitTestDemo.dll
+D:\Dropbox\Dropbox\UnitTestDemo\XUnitDemo\obj\Debug\netcoreapp2.1\XUnitDemo.csprojAssemblyReference.cache
+D:\Dropbox\Dropbox\UnitTestDemo\XUnitDemo\obj\Debug\netcoreapp2.1\XUnitDemo.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\UnitTestDemo\XUnitDemo\obj\Debug\netcoreapp2.1\XUnitDemo.AssemblyInfoInputs.cache
+D:\Dropbox\Dropbox\UnitTestDemo\XUnitDemo\obj\Debug\netcoreapp2.1\XUnitDemo.AssemblyInfo.cs
