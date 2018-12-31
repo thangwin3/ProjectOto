@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dropbox\\Dropbox\\UnitTestDemo\\UnitTestDemo\\UnitTestDemo.csproj",
+      "projectUniqueName": "D:\\Dropbox\\Dropbox\\RONG\\ProjectOto\\UnitTestDemo\\UnitTestDemo\\UnitTestDemo.csproj",
       "projectName": "UnitTestDemo",
-      "projectPath": "D:\\Dropbox\\Dropbox\\UnitTestDemo\\UnitTestDemo\\UnitTestDemo.csproj",
+      "projectPath": "D:\\Dropbox\\Dropbox\\RONG\\ProjectOto\\UnitTestDemo\\UnitTestDemo\\UnitTestDemo.csproj",
       "packagesPath": "C:\\Users\\thang\\.nuget\\packages\\",
-      "outputPath": "D:\\Dropbox\\Dropbox\\UnitTestDemo\\UnitTestDemo\\obj\\",
+      "outputPath": "D:\\Dropbox\\Dropbox\\RONG\\ProjectOto\\UnitTestDemo\\UnitTestDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
